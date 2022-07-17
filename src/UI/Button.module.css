@@ -1,0 +1,16 @@
+.btn {
+  background-color: #f4a15d;
+  border: none;
+  width: 20rem;
+  border-radius: 100vmax;
+  text-align: center;
+  color: #000;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 0.4rem 0;
+  outline: none;
+  box-shadow: var(--shadow);
+}
+
+/* border: 1px solid rgba(134, 41, 36, 0.5);
+color: rgb(134, 41, 36); */

@@ -1,0 +1,4 @@
+máximo: 888px
+mínimo: 375px
+
+fonte: Segoe UI
